@@ -1,0 +1,13 @@
+This is a text file.
+It is a collection of characters that are organized into lines.
+Text files can be used to store any kind of information, such as text, numbers, or code.
+They are a simple and versatile way to store data.
+
+To create a text file, you can use a text editor such as Notepad or Sublime Text.
+Once you have created a text file, you can save it with any file extension you want.
+However, the most common file extension for text files is .txt.
+
+Text files can be opened and edited by any text editor.
+They can also be opened and viewed by many other programs, such as web browsers and word processors.
+
+Text files are a great way to store data because they are simple, versatile, and easy to use. 
